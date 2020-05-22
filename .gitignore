@@ -1,0 +1,9 @@
+__pycache__/
+
+MaskGAN_demo/
+face_parsing/Data_preprocessing/
+face_parsing/CelebAMask-HQ.zip
+face_parsing/runs/
+face_parsing/test_color_visualize/
+face_parsing/test_results/
+face_parsing/models/
